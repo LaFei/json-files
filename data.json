@@ -1,108 +1,108 @@
 [
 	{
 		"id": "1",
-		"name": "food 1",
+		"name": "Healthy Deal A",
 		"image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?q=80&w=1980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		"distance": "1000",
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4"
+		"rating": "4.5"
 	},
 	{
 		"id": "2",
-		"name": "food 1",
+		"name": "Tasty Deal A",
 		"image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		"distance": "1000",
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4"
+		"rating": "2"
 	},
 	{
 		"id": "3",
-		"name": "food 1",
+		"name": "Limited Deal A",
 		"image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		"distance": "1000",
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4"
+		"rating": "3"
 	},
 	{
 		"id": "4",
-		"name": "food 1",
+		"name": "Limited Deal B",
 		"image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		"distance": "1000",
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4",
+		"rating": "5",
 		"isHighLighted": true
 	},
 	{
 		"id": "5",
-		"name": "food 1",
+		"name": "Tasty Deal B",
 		"image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		"distance": "1000",
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4"
+		"rating": ""
 	},
 	{
 		"id": "6",
-		"name": "food 1",
+		"name": "Healthy Deal B",
 		"image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		"distance": "1000",
 		"discount": "10",
-		"type": "dinner",
+		"type": "dinner",3.5
 		"century ": "Japanese",
 		"rating": "4",
 		"isHighLighted": true
 	},
 	{
 		"id": "7",
-		"name": "food 1",
+		"name": "Tasty Deal C"",
 		"image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 		"distance": "1000",
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4",
+		"rating": "4.5",
 		"isHighLighted": true
 	},
 	{
 		"id": "8",
-		"name": "food 1",
+		"name": "Healthy Deal C",
 		"image": "https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 		"distance": "1000",
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4",
+		"rating": "3.5",
 		"isHighLighted": true
 	},
 	{
 		"id": "9",
-		"name": "food 1",
+		"name": "Tasty Deal D"",
 		"image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 		"distance": "1000",
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4",
+		"rating": "2.5",
 		"isHighLighted": true
 	},
 	{
 		"id": "10",
-		"name": "food 1",
+		"name": "Limited Deal C",
 		"image": "https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 		"distance": "1000",
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4",
+		"rating": "5",
 		"isHighLighted": true
 	}
 ]
