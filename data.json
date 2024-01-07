@@ -69,7 +69,8 @@
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4"
+		"rating": "4",
+		"isHighLighted": true
 	},
 	{
 		"id": "8",
@@ -90,7 +91,8 @@
 		"discount": "10",
 		"type": "dinner",
 		"century ": "Japanese",
-		"rating": "4"
+		"rating": "4",
+		"isHighLighted": true
 	},
 	{
 		"id": "10",
